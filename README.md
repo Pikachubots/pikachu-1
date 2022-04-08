@@ -79,8 +79,8 @@ Absolutely, Pikachu executives do not accept responsibility.
 By establishing the Pikachu, you are deemed to have accepted these responsibilities.
 ```
 
-## Developers
-  <div align="center">
+
+
     
 
 ----|----|----
