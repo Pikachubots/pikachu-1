@@ -83,10 +83,10 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 
     
 
-----|----|----
-[Ameer Suhail](https://github.com/ameer-kallumthodi) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
-Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
-  </div>
+
+
+
+
 
 
 
