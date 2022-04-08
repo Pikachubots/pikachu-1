@@ -1,15 +1,15 @@
-## Hello, I'm [ameer-kallumthodi](https://instagram.com/ameer_.su_hail) 
+## Hello, I'm [muhammed-fasweeh]
 
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
-:page_with_curl: I'm currently Studiying.
+
+
 
 
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Ameer+Kallumthodi's+Profile."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+pikachu+bots's+Profile."
             alt="Typing SVG"
         />
     </a>
@@ -82,19 +82,19 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+
 ----|----|----
 [Ameer Suhail](https://github.com/ameer-kallumthodi) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
-## Contributors
-`Ameer Suhail`
-`Afnanplk`
-`Cyberchekuthan`
-`Farhan-Dqz`
-`Saidalisaid`
-`Souravkl11`
+
+
+
+
+
+
+
         
         
 ## License
